@@ -6,7 +6,7 @@
 
 ## Simple example
 
-From (https://hub.docker.com/_/nginx/)[basic setup]
+From [the most basic setup](https://hub.docker.com/_/nginx/)
 
 ```
 docker build -t fe-image .
