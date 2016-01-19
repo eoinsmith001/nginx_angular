@@ -1,0 +1,14 @@
+{
+  "name": "nginx_angular",
+  "version": "1.0.0",
+  "description": "toy app to test wrap angular app with nginx and docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "esmith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
