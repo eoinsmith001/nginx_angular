@@ -3,7 +3,7 @@ angular.module('routerRoutes', ['ui.router'])
     $urlRouterProvider.otherwise("/state1");
     $stateProvider
       .state('home', {
-        url          : '/home',
+        url          : '/home?foo',
         templateUrl  : 'views/pages/home.html'
       })
       .state('home.message', {
